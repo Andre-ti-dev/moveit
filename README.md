@@ -1,3 +1,5 @@
+[![CAPA](https://raw.githubusercontent.com/Andre-ti-dev/moveit/main/capa.png)]()
+
 ## 💎 Sobre
 
 O Move.it ajuda você a se concentrar em suas tarefas e manter seu corpo sem dores, fornecendo exercicios simples para fazer a cada ciclo.

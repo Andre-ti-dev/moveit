@@ -2,8 +2,9 @@
 
 O Move.it ajuda você a se concentrar em suas tarefas e manter seu corpo sem dores, fornecendo exercicios simples para fazer a cada ciclo.
 
-O projeto se utiliza de recursos de gamificação para a cada ciclo de 25 minutos concluído o usuário recebe um desafio que ao ser concluído irá 
-fornecer pontos de experiência permitindo que ele suba seu level na plataforma.
+O projeto foi desenvolvido durante a Next Level Week 4 da Rocketseat com o instrutor Diego Fernades.
+
+A aplicação se utiliza de recursos de gamificação para manter o usuário comprometido com sua atividade, pois a cada ciclo de 25 minutos concluído o usuário recebe um desafio que ao ser concluído irá fornecer pontos de experiência permitindo que ele suba seu level na plataforma.
 
 ## 🛠 Tecnologias
 
